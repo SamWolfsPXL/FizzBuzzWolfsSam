@@ -1,0 +1,16 @@
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.pdb
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.csprojResolveAssemblyReference.cache
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.csproj.CoreCompileInputs.cache
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.pdb
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.dll
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.pdb
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.dll
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.xml
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.csprojResolveAssemblyReference.cache
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.csproj.CoreCompileInputs.cache
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.dll
+C:\Users\samwo\source\repos\FizzBuzzNaamVoornaam\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.pdb
